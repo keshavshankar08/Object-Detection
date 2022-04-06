@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>What Is a Highly Sensitive Person_ (A....jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/What Is a Highly Sensitive Person_ (A....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1150</width>
+		<height>701</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>141</ymin>
+			<xmax>717</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

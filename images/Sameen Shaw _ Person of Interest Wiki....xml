@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Sameen Shaw _ Person of Interest Wiki....jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/Sameen Shaw _ Person of Interest Wiki....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2748</width>
+		<height>4128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>79</ymin>
+			<xmax>2602</xmax>
+			<ymax>4128</ymax>
+		</bndbox>
+	</object>
+</annotation>

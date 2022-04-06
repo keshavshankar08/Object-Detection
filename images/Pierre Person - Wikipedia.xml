@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pierre Person - Wikipedia.jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/Pierre Person - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2272</width>
+		<height>3408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>185</ymin>
+			<xmax>2272</xmax>
+			<ymax>3408</ymax>
+		</bndbox>
+	</object>
+</annotation>
