@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Download happy person png images....png</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/Download happy person png images....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>859</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>9</ymin>
+			<xmax>715</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>

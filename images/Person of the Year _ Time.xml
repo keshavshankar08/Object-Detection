@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Person of the Year _ Time.jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/Person of the Year _ Time.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>407</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>7</ymin>
+			<xmax>304</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

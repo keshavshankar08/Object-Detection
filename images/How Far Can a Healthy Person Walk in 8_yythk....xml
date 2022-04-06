@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>How Far Can a Healthy Person Walk in 8_yythk....jpeg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/How Far Can a Healthy Person Walk in 8_yythk....jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1333</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556</xmin>
+			<ymin>328</ymin>
+			<xmax>777</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

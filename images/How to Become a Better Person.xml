@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>How to Become a Better Person.jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/How to Become a Better Person.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1941</width>
+		<height>1548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>923</xmin>
+			<ymin>26</ymin>
+			<xmax>1655</xmax>
+			<ymax>1548</ymax>
+		</bndbox>
+	</object>
+</annotation>

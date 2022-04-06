@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Dwayne _The Rock_ Johnson named Most... (1).jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/Dwayne _The Rock_ Johnson named Most... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>968</xmin>
+			<ymin>124</ymin>
+			<xmax>2985</xmax>
+			<ymax>2028</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>How a writer found himself in a missing....jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/How a writer found himself in a missing....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>117</ymin>
+			<xmax>700</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>
