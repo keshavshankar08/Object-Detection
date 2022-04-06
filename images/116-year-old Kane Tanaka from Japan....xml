@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>116-year-old Kane Tanaka from Japan....jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/116-year-old Kane Tanaka from Japan....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1065</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>4</ymin>
+			<xmax>883</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

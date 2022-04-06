@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Am I A Toxic Person_ Take the quiz to_yythkg....jpeg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/Am I A Toxic Person_ Take the quiz to_yythkg....jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1462</xmin>
+			<ymin>15</ymin>
+			<xmax>2469</xmax>
+			<ymax>1307</ymax>
+		</bndbox>
+	</object>
+</annotation>

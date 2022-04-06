@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CORONAVIRUS - CARICOM.jpg</filename>
+	<path>/Users/keshavshankar/Desktop/people/images/CORONAVIRUS - CARICOM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>879</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>17</ymin>
+			<xmax>1024</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+</annotation>
